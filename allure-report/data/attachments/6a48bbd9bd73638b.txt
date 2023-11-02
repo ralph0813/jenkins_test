@@ -1,0 +1,1 @@
+2023-10-31 17:09:18.450 | INFO     | 0701001_module_performance_status_test:setup_class:51 - Chart save: logs/log_2023-10-31-17-09/chart
